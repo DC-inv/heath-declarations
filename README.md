@@ -5,6 +5,8 @@ Web application for health declarations with COVID-19 screening
 # Author
 Dickson
 
+<img width="550" height="640" alt="image" src="https://github.com/user-attachments/assets/57d0e4cf-2eec-4de7-a2a2-f954c22ba671" />
+
 ## How to Run
 
 ### Backend
