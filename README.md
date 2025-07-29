@@ -1,6 +1,9 @@
 
 # About
-Web application for health declarations with COVID-19 screening.
+Web application for health declarations with COVID-19 screening
+
+# Author
+Dickson
 
 ## How to Run
 
@@ -29,6 +32,12 @@ Frontend runs on: `http://localhost:3000`
 - Health declaration form with name, temperature, symptoms, COVID contact
 - Display submitted records in table
 - Delete records functionality
+
+## To Run Tests
+```bash
+cd backend
+npm test
+```
 
 ## Project Structure
 ```

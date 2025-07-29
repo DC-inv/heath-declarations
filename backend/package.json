@@ -4,6 +4,12 @@
     "express": "^5.1.0"
   },
   "scripts": {
-    "start": "node app"
+    "start": "node app",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.1",
+    "jest": "^30.0.5",
+    "supertest": "^7.1.4"
   }
 }
